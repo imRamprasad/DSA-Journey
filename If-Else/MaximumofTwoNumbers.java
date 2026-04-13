@@ -9,5 +9,6 @@ public class MaximumofTwoNumbers{
         }else{
             System.out.println("B is Greater then "+a);
         }
+        sc.close();
     }
 }
