@@ -20,9 +20,9 @@ Playlist: *If-Else Mastery – Logic Over Syntax*
 | 2  | Positive / Negative / Zero | ✅      |
 | 3  | Divisible by 5 and 11      | ✅      |
 | 4  | Leap Year Check            | ✅      |
-| 5  | Vowel or Consonant         | ⏳      |
-| 6  | Triangle Validity          | ⏳      |
-| 7  | Grade Calculation          | ⏳      |
+| 5  | Vowel or Consonant         | ✅      |
+| 6  | Triangle Validity          | ✅      |
+| 7  | Grade Calculation          | ✅      |
 | 8  | ATM Cash Dispensing        | ⏳      |
 | 9  | Toll Booth System          | ⏳      |
 | 10 | Airport Immigration System | ⏳      |
