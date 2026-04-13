@@ -48,9 +48,6 @@ Playlist: *If-Else Mastery – Logic Over Syntax*
 ## 🔥 Daily Log
 
 * Day 1:
-* Day 2:
-* Day 3:
-
 ---
 
 ## 💡 Notes
