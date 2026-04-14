@@ -17,7 +17,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | #  | Problem                           | Status |
 | -- | --------------------------------- | ------ |
 | 1  | Sum of Natural Numbers            | ✅      |
-| 2  | Multiplication Table              | ⏳      |
+| 2  | Multiplication Table              | ✅      |
 | 3  | Range Multiplication              | ⏳      |
 | 4  | Sum of Even Numbers               | ⏳      |
 | 5  | Harmonic Series                   | ⏳      |
