@@ -19,7 +19,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 1  | Sum of Natural Numbers            | ✅      |
 | 2  | Multiplication Table              | ✅      |
 | 3  | Range Multiplication              | ✅      |
-| 4  | Sum of Even Numbers               | ⏳      |
+| 4  | Sum of Even Numbers               | ✅      |
 | 5  | Harmonic Series                   | ⏳      |
 | 6  | Series Sum (9 + 99 + 999...)      | ⏳      |
 | 7  | Armstrong Number                  | ⏳      |
