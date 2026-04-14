@@ -18,7 +18,7 @@
 
 | Topic          | Solved | Target | Status |
 | -------------- | ------ | ------ | ------ |
-| If-Else        | 0      | 10     | ⏳      |
+| If-Else        |09      | 09     | ✅      |
 | Arrays         | 0      | 30     | ⏳      |
 | Strings        | 0      | 25     | ⏳      |
 | Sliding Window | 0      | 20     | ⏳      |
@@ -35,7 +35,7 @@
 
 ## 🔥 Daily Log
 
-* Day 1:
+* Day 1:completed
 * Day 2:
 * Day 3:
 
