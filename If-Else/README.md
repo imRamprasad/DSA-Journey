@@ -24,8 +24,7 @@ Playlist: *If-Else Mastery – Logic Over Syntax*
 | 6  | Triangle Validity          | ✅      |
 | 7  | Grade Calculation          | ✅      |
 | 8  | ATM Cash Dispensing        | ✅      |
-| 9  | Toll Booth System          | ⏳      |
-| 10 | Airport Immigration System | ⏳      |
+| 9  | Toll Booth System          | ✅      |
 
 ---
 
@@ -41,8 +40,7 @@ Playlist: *If-Else Mastery – Logic Over Syntax*
 
 ## 🏆 Progress
 
-* Completed: 0 / 10
-
+* Completed: 09/09
 ---
 
 ## 🔥 Daily Log
