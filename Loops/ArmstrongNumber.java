@@ -8,7 +8,18 @@ public class ArmstrongNumber {
         int sum=0;
         int digitCount=(int)(Math.log10((double) num))+1;
         for(int i=0;i<(int)digitCount;i++){
-            sum+=Math.pow((num%10),digitCount);
+
+                //using Math.pow() method
+
+            // sum+=Math.pow((num%10),digitCount);
+
+            //using function to power
+            int rem=num%10;
+            int pow=1;
+            for(int j=0;j<digitCount;j++){
+                pow*=rem;
+            }
+            sum+=pow;
             num/=10;
         }
         if(sum==actualValue){
