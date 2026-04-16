@@ -22,7 +22,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 4  | Sum of Even Numbers               | ✅      |
 | 5  | Harmonic Series                   | ✅      |
 | 6  | Series Sum (9 + 99 + 999...)      | ✅      |
-| 7  | Armstrong Number                  | ⏳      |
+| 7  | Armstrong Number                  | ✅      |
 | 8  | Fibonacci Series                  | ⏳      |
 | 9  | Reverse Number & Palindrome       | ⏳      |
 | 10 | Factorial                         | ⏳      |
