@@ -28,9 +28,9 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 10 | Factorial                         | ✅      |
 | 11 | AP Series Sum                     | ✅      |
 | 12 | Count Digit Occurrences           | ✅      |
-| 13 | Star Triangle Pattern             | ⏳      |
-| 14 | Number Triangle Pattern           | ⏳      |
-| 15 | Left Shifted Pattern              | ⏳      |
+| 13 | Star Triangle Pattern             | ✅      |
+| 14 | Number Triangle Pattern           | ✅      |
+| 15 | Left Shifted Pattern              | ✅      |
 | 16 | Pyramid Pattern                   | ⏳      |
 | 17 | Reverse Triangle Pattern          | ⏳      |
 | 18 | Descending Number Pattern         | ⏳      |
@@ -62,13 +62,13 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 
 ## 🏆 Progress
 
-* Completed: 0 / 30
+* Completed: 15 / 30
 
 ---
 
 ## 🔥 Daily Log
 
-* Day 2:
+* Day 4:
 
 
 ---
