@@ -23,7 +23,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 5  | Harmonic Series                   | ✅      |
 | 6  | Series Sum (9 + 99 + 999...)      | ✅      |
 | 7  | Armstrong Number                  | ✅      |
-| 8  | Fibonacci Series                  | ⏳      |
+| 8  | Fibonacci Series                  | ✅      |
 | 9  | Reverse Number & Palindrome       | ⏳      |
 | 10 | Factorial                         | ⏳      |
 | 11 | AP Series Sum                     | ⏳      |
