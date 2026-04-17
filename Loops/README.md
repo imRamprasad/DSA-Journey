@@ -25,7 +25,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 7  | Armstrong Number                  | ✅      |
 | 8  | Fibonacci Series                  | ✅      |
 | 9  | Reverse Number & Palindrome       | ✅      |
-| 10 | Factorial                         | ⏳      |
+| 10 | Factorial                         | ✅      |
 | 11 | AP Series Sum                     | ⏳      |
 | 12 | Count Digit Occurrences           | ⏳      |
 | 13 | Star Triangle Pattern             | ⏳      |
