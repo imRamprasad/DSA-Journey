@@ -11,6 +11,10 @@ public class ReverseNumberPalindrome {
         }
         System.out.println(rev);
         System.out.println(a);
-        
+        if(rev==a){
+            System.out.println(rev+" is a Palindrome");
+        }else{
+            System.out.println(a+" is not a Palindrome");
+        }
     }
 }
