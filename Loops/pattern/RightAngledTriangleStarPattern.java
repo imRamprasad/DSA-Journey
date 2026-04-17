@@ -13,3 +13,10 @@ public class RightAngledTriangleStarPattern {
         }
     }
 }
+
+
+// output:-
+// * 
+// * * 
+// * * * 
+// * * * * 
