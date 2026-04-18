@@ -31,8 +31,8 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 13 | Star Triangle Pattern             | ✅      |
 | 14 | Number Triangle Pattern           | ✅      |
 | 15 | Left Shifted Pattern              | ✅      |
-| 16 | Pyramid Pattern                   | ⏳      |
-| 17 | Reverse Triangle Pattern          | ⏳      |
+| 16 | Pyramid Pattern                   | ✅      |
+| 17 | Reverse Triangle Pattern          | ✅      |
 | 18 | Descending Number Pattern         | ⏳      |
 | 19 | Right-Aligned Block               | ⏳      |
 | 20 | Diamond Pattern                   | ⏳      |
