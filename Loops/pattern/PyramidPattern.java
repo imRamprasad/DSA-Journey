@@ -6,14 +6,11 @@ public class PyramidPattern{
         int num=sc.nextInt();
         for(int i=0;i<num;i++){
             for(int k=0;k<num-i;k++){
-                System.out.print("_ ");
+                System.out.print("  ");
             }
             for(int j=0;j<=i+i;j++){
                 System.out.print(j+1+" ");
             }
-            // for(int k=0;k<num-i;k++){
-            //     System.out.print("  ");
-            // }
 
             System.out.println("");
             
@@ -21,3 +18,10 @@ public class PyramidPattern{
 
     }
 }
+
+// output:-
+//           1 
+//         1 2 3 
+//       1 2 3 4 5 
+//     1 2 3 4 5 6 7 
+//   1 2 3 4 5 6 7 8 9
