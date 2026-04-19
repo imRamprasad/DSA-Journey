@@ -37,7 +37,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 19 | Right-Aligned Block               | ✅      |
 | 20 | Diamond Pattern                   | ✅      |
 | 21 | Hourglass Pattern                 | ✅      |
-| 22 | Hollow Square                     | ⏳      |
+| 22 | Hollow Square                     | ✅      |
 | 23 | Hollow Pyramid                    | ⏳      |
 | 24 | Growing Triangle Pattern          | ⏳      |
 | 25 | Layered Pyramid                   | ⏳      |
