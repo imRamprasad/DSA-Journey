@@ -36,7 +36,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 18 | Descending Number Pattern         | ✅      |
 | 19 | Right-Aligned Block               | ✅      |
 | 20 | Diamond Pattern                   | ✅      |
-| 21 | Hourglass Pattern                 | ⏳      |
+| 21 | Hourglass Pattern                 | ✅      |
 | 22 | Hollow Square                     | ⏳      |
 | 23 | Hollow Pyramid                    | ⏳      |
 | 24 | Growing Triangle Pattern          | ⏳      |
