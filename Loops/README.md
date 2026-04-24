@@ -38,8 +38,8 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 20 | Diamond Pattern                   | ✅      |
 | 21 | Hourglass Pattern                 | ✅      |
 | 22 | Hollow Square                     | ✅      |
-| 23 | Hollow Pyramid                    | ⏳      |
-| 24 | Growing Triangle Pattern          | ⏳      |
+| 23 | Hollow Pyramid                    | ✅      |
+| 24 | Growing Triangle Pattern          | ✅      |
 | 25 | Layered Pyramid                   | ⏳      |
 | 26 | Growing Pattern                   | ⏳      |
 | 27 | Butterfly Pattern                 | ⏳      |
