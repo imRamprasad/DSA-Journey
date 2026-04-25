@@ -42,7 +42,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 24 | Growing Triangle Pattern          | ✅      |
 | 25 | Layered Pyramid                   | ✅      |
 | 26 | Growing Pattern                   | ✅      |
-| 27 | Butterfly Pattern                 | ⏳      |
+| 27 | Butterfly Pattern                 | ✅      |
 | 28 | Mirror Pattern                    | ⏳      |
 | 29 | FizzBuzz (LeetCode 412)           | ⏳      |
 | 30 | Steps to Reduce to Zero (LC 1342) | ⏳      |
