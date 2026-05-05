@@ -44,7 +44,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 26 | Growing Pattern                   | ✅      |
 | 27 | Butterfly Pattern                 | ✅      |
 | 28 | Mirror Pattern                    | ✅      |
-| 29 | FizzBuzz (LeetCode 412)           | ⏳      |
+| 29 | FizzBuzz (LeetCode 412)           | ✅      |
 | 30 | Steps to Reduce to Zero (LC 1342) | ⏳      |
 
 ---
@@ -77,3 +77,5 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 
 Loops are the backbone of problem solving.
 Strong loop logic = strong DSA foundation.
+
+

@@ -33,12 +33,6 @@
 
 ---
 
-## 🔥 Daily Log
-
-* Day 1:completed
-* Day 2:
-* Day 3:
-
 ---
 
 ## 🧠 Rules I Follow
@@ -53,3 +47,5 @@
 ## 💡 Notes
 
 This repository tracks my journey to mastering Data Structures & Algorithms for top tech interviews.
+
+
