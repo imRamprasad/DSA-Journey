@@ -45,7 +45,7 @@ Playlist: *Mastering Loops – From Basics to Advanced*
 | 27 | Butterfly Pattern                 | ✅      |
 | 28 | Mirror Pattern                    | ✅      |
 | 29 | FizzBuzz (LeetCode 412)           | ✅      |
-| 30 | Steps to Reduce to Zero (LC 1342) | ⏳      |
+| 30 | Steps to Reduce to Zero (LC 1342) | ✅      |
 
 ---
 
