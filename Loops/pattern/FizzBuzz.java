@@ -24,9 +24,6 @@ public class FizzBuzz {
         }
         return li;
     }
+
+
 }
-
-
-// recursive way to solve the problem
-
-
