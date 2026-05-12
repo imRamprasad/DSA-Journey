@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.HashMap;
 public class TwoSum {
     public static void main(String[] args){
         int[] arr={2,7,11,15};
@@ -7,15 +8,15 @@ public class TwoSum {
 
     }
     public static int[] twoSum(int[] num,int target){
-        int[] val=new int[2];
+        HashMap <Integer,Integer >hm=new HashMap<>();
         for(int i=0;i<num.length;i++){
-            for(int j=i+1;j<num.length;j++){
-                if(num[i]+num[j]==target){
-                    val[0]=i;
-                    val[1]=j;
-                }
+            int val=target-num[i];
+            if(!hm.containsKey(val)){
+                hm.put(num[i],i);
+            }else{
+                return new int[]{hm.get(val),i};
             }
         }
-        return val;
+        return new int[]{};
     }
 }
