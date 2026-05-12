@@ -1,4 +1,5 @@
 
+import java.util.Arrays;
 import java.util.HashSet;
 
 public class ContainsDuplicate {
@@ -9,6 +10,7 @@ public class ContainsDuplicate {
 
     public static boolean containsDuplicate(int[] nums){
         HashSet <Integer> hs=new HashSet<>();
+        Arrays.sort(nums);
         for(int i=0;i<nums.length;i++){
             
             if(hs.contains(nums[i])){
