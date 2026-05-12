@@ -11,9 +11,9 @@ Master recursion and build strong problem-solving thinking for DSA and coding in
 | 1  | Introduction to Recursion Part 1            | ✅ |
 | 2  | Introduction to Recursion Part 2            | ✅ |
 | 3  | Introduction to Recursion Part 3            | ✅ |
-| 4  | Print N to 1                                | ⏳ |
-| 5  | Recursion Pattern Problems                  | ⏳ |
-| 6  | Sum of Natural Numbers                      | ⏳ |
+| 4  | Print N to 1                                | ✅ |
+| 5  | Recursion Pattern Problems                  | ✅ |
+| 6  | Sum of Natural Numbers                      | ✅ |
 | 7  | Sum of Digits                               | ⏳ |
 | 8  | Product of Non-Zero Digits                  | ⏳ |
 | 9  | Reduce Number to Zero (LC 1342)             | ⏳ |
