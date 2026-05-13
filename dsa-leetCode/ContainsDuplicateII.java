@@ -1,27 +1,28 @@
 
 import java.util.HashSet;
+import java.util.HashMap;
 
 public class ContainsDuplicateII {
     public static void main(String[] args) {
-        int [] arr={1,2,3,1};
+        int [] arr={1,2,3,4,5,6,3};
         int k=3;
         System.out.println(containsNearbyDuplicate(arr,k) );
         
     }
 
         public static boolean containsNearbyDuplicate(int[] nums, int k) {
-            HashSet <Integer> hs=new HashSet<>();
+            HashMap <Integer,Integer> hm=new HashMap<>();
             for(int i=0;i<nums.length;i++){
-                if(hs.contains(nums[i])){
+                if(hm.containsKey(nums[i])){
                     return true;
                 }
-                hs.add(nums[i]);
-                if(hs.size()>k){
-                    hs.remove(nums[i-k]);
+                hm.put(nums[i],i);
+                // System.out.println(hm);
+                if(hm.size()>k){
+                    hm.remove(nums[i-k]);
+                    // System.out.println("         "+hm);
                 }
-
             }
-
             return false;
         
          }
