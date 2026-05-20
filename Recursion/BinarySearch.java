@@ -4,11 +4,10 @@ public class BinarySearch {
         System.out.println(binarySearch(arr,0,arr.length-1,30));
     }
     public static int binarySearch(int[] arr,int start,int end ,int val){
-        int mid=start+(end-start)/2;
         if(val>arr[end] || val<arr[start]){
             return -1;
         }
-        
+          int mid=start+(end-start)/2;
         if(arr[mid]>val){
             return binarySearch(arr, start,mid-1, val);
         }else if(arr[mid]<val){
@@ -18,6 +17,8 @@ public class BinarySearch {
         }else{
             return -1;
         }
+
+
 
     }
 
