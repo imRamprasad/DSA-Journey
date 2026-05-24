@@ -5,6 +5,7 @@ public class RemoveA{
 
         String s="abc";
         System.out.println(sSubString("",s));
+        System.out.println(AsciiValueList("",s));
         
 
         // StringBuilder sb=removeA(s);
@@ -37,5 +38,22 @@ public class RemoveA{
         ArrayList<String> a2=sSubString(s,sh.substring(1));
         al.addAll(a2);
         return al;
+    }
+
+
+
+
+    public static ArrayList<String> AsciiValueList(String s, String su){
+        ArrayList<String> al=new ArrayList<>();
+        if(su.isEmpty()){
+            al.add(s);
+            return al;
+        }
+        ArrayList<String> left=AsciiValueList(s+su.charAt(0),su.substring(1));
+        ArrayList<String> middle=AsciiValueList(s+(su.charAt(0)+0),su.substring(1));
+        ArrayList<String> right=AsciiValueList(s,su.substring(1));
+        left.addAll(middle);
+         left.addAll(right);
+         return left;
     }
 }
